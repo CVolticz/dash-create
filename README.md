@@ -4,7 +4,7 @@ This Command Line Interface Tool (CLI) is inspired by React "the industry standa
 This is a CLI tool that helped generated a somewhat more sophisticated Fullstack file structure and connector for plotly dash application.
 
 ## Installation
-`pip install git+https://gitlab.com/danisco-nutrition-and-biosciences/lighthouse/python-packages/iff-dash-create.git@main`
+`pip install git+https://github.com/CVolticz/dash-create.git@main`
 
 ## Usage
 Because I'm a real cool data scientist, The CLI tool has a help feature that can be call whenever.
