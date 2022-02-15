@@ -19,9 +19,9 @@ setuptools.setup(
 
     long_description_content_type="text/markdown",
 
-    url="https://github.com/cVoltic/dash-iff-cli.git",
+    url="https://github.com/CVolticz/dash-create.git",
 
-    packages=setuptools.find_packages(include=['dash_create', 'dash_create.*', 'dash_create.bin', 'dash_create.bin']),
+    packages=setuptools.find_packages(include=['dash_create', 'dash_create.*', 'dash_create.bin']),
 
     classifiers=[
 
