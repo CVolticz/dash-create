@@ -10,9 +10,9 @@ This is a CLI tool that helped generated a somewhat more sophisticated Fullstack
 Because I'm a real cool data scientist, The CLI tool has a help feature that can be call whenever.
 
 ```
-iff-dash-create --help
+dash-create --help
 
-Usage: iff-dash-create [OPTIONS] COMMAND [ARGS]...
+Usage: dash-create [OPTIONS] COMMAND [ARGS]...
 
   Simple CLI wrapper for interfacing
 
