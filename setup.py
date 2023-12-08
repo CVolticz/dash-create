@@ -43,10 +43,10 @@ setuptools.setup(
                     'scipy',
                     'matplotlib', 
                     'seaborn',
-                    'dash==2.0.0', 
-                    'plotly>=5.0.0', 
+                    'dash', 
+                    'plotly', 
                     'dash-bootstrap-components',
-                    'waitress==1.4.0',
+                    'waitress',
                     'requests',
                 ],
 
